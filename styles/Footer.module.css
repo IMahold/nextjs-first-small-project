@@ -1,0 +1,17 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    border-top: 1px solid #afafaf;
+    background-color: rgb(175, 175, 175);
+    align-items: center;
+    font-weight: 300;
+    text-transform: uppercase;
+  }
+  
+  .footer a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+  }

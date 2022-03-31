@@ -1,0 +1,64 @@
+.cardContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.card {
+  background-color: rgb(173, 197, 230);
+  padding: 20px;
+  margin: 30px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: bold;
+  width: 400px;
+  height: 450px;
+  
+}
+
+
+
+
+
+.button {
+  background-color: blue;
+  width: 80px;
+  padding: 8px 12px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-size: large;
+}
+
+.button:hover {
+  background-color: rgb(0, 0, 158);
+}
+
+
+.box {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+.back {
+  margin: 30px;
+  border: none;
+  border-radius: 7px;
+  padding: 12px 17px;
+  background-color: gray;
+  font-size: 1rem;
+  cursor: pointer;
+  color: white;
+}
+
+.back:hover {
+  background-color: rgb(85, 85, 85);
+}

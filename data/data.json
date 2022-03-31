@@ -1,0 +1,50 @@
+[
+    {
+      "id": 0,
+      "name": "Billy",
+      "imgUrl": "https://cdn.pixabay.com/photo/2019/09/10/09/23/dog-4465690__340.jpg",
+      "websiteUrl": "https://www.strangelovecoffee.ca/",
+      "address": "983 Queen St E, Toronto, ON M4M 1K2",
+      "neighbourhood": "at King and Spadina"
+    },
+    {
+      "id": 1,
+      "name": "Skotty",
+      "imgUrl": "https://cdn.pixabay.com/photo/2018/05/07/10/48/husky-3380548__340.jpg",
+      "websiteUrl": "https://www.darkhorseespresso.com/",
+      "address": "401 Richmond St W",
+      "neighbourhood": "Richmond and Spadina"
+    },
+    {
+      "id": 2,
+      "name": "Lucky",
+      "imgUrl": "https://cdn.pixabay.com/photo/2021/08/18/22/42/australian-shepherd-6556697__340.jpg",
+      "websiteUrl": "https://www.darkhorseespresso.com/",
+      "address": "401 Richmond St W",
+      "neighbourhood": "Route 300 Neighbourhood"
+    },
+    {
+        "id": 3,
+        "name": "Thunder",
+        "imgUrl": "https://cdn.pixabay.com/photo/2014/08/21/14/51/dog-423398__340.jpg",
+        "websiteUrl": "https://www.darkhorseespresso.com/",
+        "address": "401 Richmond St W",
+        "neighbourhood": "Route 300 Neighbourhood"
+      },
+      {
+        "id": 4,
+        "name": "Flesh",
+        "imgUrl": "https://cdn.pixabay.com/photo/2016/11/21/00/47/view-1844110__340.jpg",
+        "websiteUrl": "https://www.darkhorseespresso.com/",
+        "address": "401 Richmond St W",
+        "neighbourhood": "Route 300 Neighbourhood"
+      },
+      {
+        "id": 5,
+        "name": "Flesh",
+        "imgUrl": "https://cdn.pixabay.com/photo/2021/01/30/15/14/akita-5964180__340.jpg",
+        "websiteUrl": "https://www.darkhorseespresso.com/",
+        "address": "401 Richmond St W",
+        "neighbourhood": "Route 300 Neighbourhood"
+      }
+  ]

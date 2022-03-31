@@ -1,0 +1,12 @@
+.container {
+  padding: 20px;
+  background-color: rgb(197, 197, 197);
+  display: flex;
+  justify-content: center;
+}
+
+.container a {
+  margin-left: 55px;
+  font-weight: 300;
+  text-transform: uppercase;
+}
